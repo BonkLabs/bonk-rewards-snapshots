@@ -1,6 +1,6 @@
 # Locked BONK Snapshots
 
-Welcome to the repository containing historical snapshots of wallets locked with BONK tokens. These wallets have engaged in locking their tokens for various durations on [bonkrewards.com](https://bonkrewards.com).
+Welcome to the repository containing historical snapshots of wallets locked with BONK tokens. These wallets have engaged in locking their tokens for various durations on [bonkrewards.com](https://bonkrewards.com). Each lock is only counted once per duration and are not additive. For example, if a wallet has two separate 3 month locks and no 6 month locks, the wallet will only show in the 3 month lock snapshot.
 
 ## Snapshot Frequency
 
